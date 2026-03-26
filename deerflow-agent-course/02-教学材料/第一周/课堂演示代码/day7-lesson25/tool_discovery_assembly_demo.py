@@ -703,8 +703,8 @@ class ToolAssembly:
         self.config = config or AssemblyConfig()
         self.logger = logging.getLogger("assembly")
 
-        # 工具实例缓存：工具名 -> 工具实例
-        self._tool_instances: Dict[str, BaseTool] = {}
+        # 工具实例缓存：工具名 -> 工具实例（按需加载模式下可能为None）
+        self._tool_instances: Dict[str, Optional[BaseTool]] = {}
 
         # 工具初始化状态：工具名 -> 是否已初始化
         self._initialization_status: Dict[str, bool] = {}
