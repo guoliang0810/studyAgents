@@ -1,0 +1,20 @@
+# DeerFlow Python Agent架构师训练营
+# 第79节课：状态恢复策略
+# Python依赖包列表
+
+# 核心依赖
+# Python 3.12+ 内置模块:
+# - asyncio
+# - typing
+# - dataclasses
+# - datetime
+# - abc (抽象基类)
+# - json
+# - os, pathlib, shutil (文件系统操作)
+# - uuid
+
+# 可选：测试框架
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+
+# 本演示代码不需要额外安装任何包

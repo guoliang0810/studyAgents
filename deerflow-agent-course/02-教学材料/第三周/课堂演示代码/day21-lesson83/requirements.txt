@@ -1,0 +1,3 @@
+# Mock策略课程依赖
+pytest>=7.4.0
+pytest-asyncio>=0.21.0

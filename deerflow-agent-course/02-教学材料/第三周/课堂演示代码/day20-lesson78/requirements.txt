@@ -1,0 +1,30 @@
+# DeerFlow Python Agent架构师训练营
+# 第78节课：检查点提供者
+# Python依赖包列表
+
+# 核心依赖
+# Python 3.12+ 内置模块:
+# - asyncio
+# - typing
+# - dataclasses
+# - datetime
+# - abc (抽象基类)
+# - collections
+# - hashlib
+# - json
+# - pickle
+# - os, pathlib, shutil (文件系统操作)
+# - sqlite3 (内置数据库)
+# - tempfile
+# - uuid
+
+# 可选：测试框架
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+
+# 可选：性能分析
+# 如果需要更快的JSON序列化，可以安装:
+# orjson>=3.9.0
+
+# 本演示代码不需要额外安装任何包
+# 所有依赖均为Python标准库
