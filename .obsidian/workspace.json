@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "deerflow-agent-course/01-课程大纲/30天完整课程大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "30天完整课程大纲"
             }
           }
         ]
@@ -174,8 +174,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "092fefa60fecf84e",
+  "active": "d5929a8ddd38b69d",
   "lastOpenFiles": [
+    "deerflow-agent-course/01-课程大纲/评估体系说明.md",
+    "deerflow-agent-course/01-课程大纲/每周学习目标.md",
+    "deerflow-agent-course/01-课程大纲/30天完整课程大纲.md",
+    "deerflow-agent-course/02-教学材料/第四周/课堂演示代码/day22-lesson85/README.md",
+    "README.md",
     "deerflow-agent-course/02-教学材料/第三周/课后练习/Day21-第84节课-边界测试-答案与解析.md",
     "deerflow-agent-course/02-教学材料/第三周/课后练习/Day21-第84节课-边界测试-课后练习.md",
     "deerflow-agent-course/02-教学材料/第三周/课后练习/Day21-第83节课-Mock策略-答案与解析.md",
@@ -207,11 +212,6 @@
     "deerflow-agent-course/02-教学材料/第四周/课后练习/Day30-第117节课-毕业项目设计-答案与解析.md",
     "deerflow-agent-course/02-教学材料/第四周/课后练习/Day30-第117节课-毕业项目设计-课后练习.md",
     "deerflow-agent-course/02-教学材料/第四周/课后练习/Day29-第116节课-伦理与责任-答案与解析.md",
-    "deerflow-agent-course/02-教学材料/第四周/课后练习/Day29-第116节课-伦理与责任-课后练习.md",
-    "deerflow-agent-course/02-教学材料/第四周/课后练习/Day29-第115节课-可解释性与透明度-答案与解析.md",
-    "deerflow-agent-course/02-教学材料/第四周/课后练习/Day29-第115节课-可解释性与透明度-课后练习.md",
-    "deerflow-agent-course/02-教学材料/第四周/课后练习/Day29-第114节课-硬件加速优化-答案与解析.md",
-    "deerflow-agent-course/02-教学材料/第四周/课后练习/Day29-第114节课-硬件加速优化-课后练习.md",
     "300-培训教学/02-学校运营/assets/20221206-运营记录.png",
     "300-其他记录/folder/Pasted image 20221206001722.png",
     "200-技术相关/面试相关/面试辅导/folder/第0讲.png",
